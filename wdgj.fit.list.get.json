@@ -1,0 +1,294 @@
+[
+  {
+    "goodsid": "6434",
+    "goodsno": "LQLOVE1",
+    "goodsname": "\u6d6a\u7434\u60c5\u4fa3\u8868",
+    "goodsname2": "",
+    "pricedetail": "0.0000",
+    "pricewholesale": "0.0000",
+    "pricemember": "0.0000",
+    "barcode": "",
+    "remark": "",
+    "bblockup": "False",
+    "price1": "0.0000",
+    "price2": "0.0000",
+    "price3": "0.0000",
+    "goodslist": [
+      {
+        "goodsid": "6027",
+        "specid": "0",
+        "goodsno": "L27934976",
+        "goodsname": "L27934976 \u673a\u68b0\u8868",
+        "specname": "",
+        "goodscount": "1.0000",
+        "unit": "",
+        "barcode": "7612356197032",
+        "price": "11.0000",
+        "moneyratio": "0.5000"
+      },
+      {
+        "goodsid": "6036",
+        "specid": "0",
+        "goodsno": "L42094716",
+        "goodsname": "L42094716 \u77f3\u82f1\u8868",
+        "specname": "",
+        "goodscount": "1.0000",
+        "unit": "",
+        "barcode": "7612356108922",
+        "price": "11.0000",
+        "moneyratio": "0.5000"
+      }
+    ]
+  },
+  {
+    "goodsid": "6436",
+    "goodsno": "D2D09KKBRCOC",
+    "goodsname": "18k\u73ab\u7470\u91d1\u624b\u956f+\u74e2\u866b\u624b\u956f\u7f16\u7801",
+    "goodsname2": "",
+    "pricedetail": "0.0000",
+    "pricewholesale": "0.0000",
+    "pricemember": "0.0000",
+    "barcode": "",
+    "remark": "",
+    "bblockup": "False",
+    "price1": "0.0000",
+    "price2": "0.0000",
+    "price3": "0.0000",
+    "goodslist": [
+      {
+        "goodsid": "6251",
+        "specid": "0",
+        "goodsno": "DBR/9/XS",
+        "goodsname": "DBR/9/XS \u914d\u9970\u9970\u54c1",
+        "specname": "",
+        "goodscount": "1.0000",
+        "unit": "",
+        "barcode": "DBR/9/XS",
+        "price": "11.0000",
+        "moneyratio": "0.5000"
+      },
+      {
+        "goodsid": "6435",
+        "specid": "0",
+        "goodsno": "DMCOC/9",
+        "goodsname": "DMCOC/9 \u914d\u9970\u540a\u5760",
+        "specname": "",
+        "goodscount": "1.0000",
+        "unit": "",
+        "barcode": "DMCOC/9",
+        "price": "11.0000",
+        "moneyratio": "0.5000"
+      }
+    ]
+  },
+  {
+    "goodsid": "6437",
+    "goodsno": "D2D0T9KC9COC",
+    "goodsname": "\u949b\u9879\u94fe+\u74e2\u866b\u624b\u956f\u7f16\u7801",
+    "goodsname2": "",
+    "pricedetail": "0.0000",
+    "pricewholesale": "0.0000",
+    "pricemember": "0.0000",
+    "barcode": "",
+    "remark": "",
+    "bblockup": "False",
+    "price1": "0.0000",
+    "price2": "0.0000",
+    "price3": "0.0000",
+    "goodslist": [
+      {
+        "goodsid": "6237",
+        "specid": "0",
+        "goodsno": "DC9/T/50",
+        "goodsname": "DC9/T/50 \u914d\u9970\u9970\u54c1",
+        "specname": "",
+        "goodscount": "1.0000",
+        "unit": "",
+        "barcode": "DC9/T/50",
+        "price": "111.0000",
+        "moneyratio": "0.5000"
+      },
+      {
+        "goodsid": "6435",
+        "specid": "0",
+        "goodsno": "DMCOC/9",
+        "goodsname": "DMCOC/9 \u914d\u9970\u540a\u5760",
+        "specname": "",
+        "goodscount": "1.0000",
+        "unit": "",
+        "barcode": "DMCOC/9",
+        "price": "111.0000",
+        "moneyratio": "0.5000"
+      }
+    ]
+  },
+  {
+    "goodsid": "6441",
+    "goodsno": "D2DO99KGBOBMTHANKS",
+    "goodsname": "\u786c\u5e01\u56db\u53f6\u8349\u523b\u5370\u540a\u5760\u9879\u94fe",
+    "goodsname2": "",
+    "pricedetail": "0.0000",
+    "pricewholesale": "0.0000",
+    "pricemember": "0.0000",
+    "barcode": "",
+    "remark": "",
+    "bblockup": "False",
+    "price1": "0.0000",
+    "price2": "0.0000",
+    "price3": "0.0000",
+    "goodslist": [
+      {
+        "goodsid": "6238",
+        "specid": "0",
+        "goodsno": "DGBOB/9/50",
+        "goodsname": "DGBOB/9/50 \u914d\u9970\u9970\u54c1",
+        "specname": "",
+        "goodscount": "1.0000",
+        "unit": "",
+        "barcode": "DGBOB/9/50",
+        "price": "111.0000",
+        "moneyratio": "0.5000"
+      },
+      {
+        "goodsid": "6242",
+        "specid": "0",
+        "goodsno": "DMTHANKS/9",
+        "goodsname": "DMTHANKS/9 \u914d\u9970\u9970\u54c1",
+        "specname": "",
+        "goodscount": "1.0000",
+        "unit": "",
+        "barcode": "DMTHANKS/9",
+        "price": "111.0000",
+        "moneyratio": "0.5000"
+      }
+    ]
+  },
+  {
+    "goodsid": "7497",
+    "goodsno": "OR8583322",
+    "goodsname": "\u5b9d\u683c\u4e3d\u8033\u9489\u4e24\u652f\u88c5",
+    "goodsname2": "",
+    "pricedetail": "0.0000",
+    "pricewholesale": "0.0000",
+    "pricemember": "0.0000",
+    "barcode": "",
+    "remark": "",
+    "bblockup": "False",
+    "price1": "0.0000",
+    "price2": "0.0000",
+    "price3": "0.0000",
+    "goodslist": [
+      {
+        "goodsid": "4907",
+        "specid": "0",
+        "goodsno": "OR858332",
+        "goodsname": "OR858332 \u914d\u9970\u8033\u9489",
+        "specname": "",
+        "goodscount": "2.0000",
+        "unit": "",
+        "barcode": "OR858332",
+        "price": "3836.0400",
+        "moneyratio": "1.0000"
+      }
+    ]
+  },
+  {
+    "goodsid": "10039",
+    "goodsno": "L49214126-1",
+    "goodsname": "L49214126-1",
+    "goodsname2": "",
+    "pricedetail": "0.0000",
+    "pricewholesale": "0.0000",
+    "pricemember": "0.0000",
+    "barcode": "",
+    "remark": "",
+    "bblockup": "False",
+    "price1": "0.0000",
+    "price2": "0.0000",
+    "price3": "0.0000",
+    "goodslist": [
+      {
+        "goodsid": "5514",
+        "specid": "0",
+        "goodsno": "L49214126",
+        "goodsname": "L49214126 \u673a\u68b0\u8868",
+        "specname": "",
+        "goodscount": "1.0000",
+        "unit": "",
+        "barcode": "7612356187170",
+        "price": "0.0000",
+        "moneyratio": "1.0000"
+      }
+    ]
+  },
+  {
+    "goodsid": "10833",
+    "goodsno": "T006407",
+    "goodsname": "\u529b\u6d1b\u514b\u60c5\u4fa3\u8868",
+    "goodsname2": "",
+    "pricedetail": "0.0000",
+    "pricewholesale": "0.0000",
+    "pricemember": "0.0000",
+    "barcode": "",
+    "remark": "",
+    "bblockup": "False",
+    "price1": "0.0000",
+    "price2": "0.0000",
+    "price3": "0.0000",
+    "goodslist": [
+      {
+        "goodsid": "5470",
+        "specid": "0",
+        "goodsno": "T41118333",
+        "goodsname": "T41118333 \u673a\u68b0\u8868",
+        "specname": "",
+        "goodscount": "1.0000",
+        "unit": "",
+        "barcode": "7611608219829",
+        "price": "0.0000",
+        "moneyratio": "0.0000"
+      },
+      {
+        "goodsid": "5609",
+        "specid": "0",
+        "goodsno": "T0064071103300",
+        "goodsname": "T0064071103300 \u673a\u68b0\u8868",
+        "specname": "",
+        "goodscount": "1.0000",
+        "unit": "",
+        "barcode": "7611608276969",
+        "price": "0.0000",
+        "moneyratio": "1.0000"
+      }
+    ]
+  },
+  {
+    "goodsid": "11026",
+    "goodsno": "L37024766-1",
+    "goodsname": "L37024766-1",
+    "goodsname2": "",
+    "pricedetail": "0.0000",
+    "pricewholesale": "0.0000",
+    "pricemember": "0.0000",
+    "barcode": "",
+    "remark": "",
+    "bblockup": "False",
+    "price1": "0.0000",
+    "price2": "0.0000",
+    "price3": "0.0000",
+    "goodslist": [
+      {
+        "goodsid": "7551",
+        "specid": "0",
+        "goodsno": "L37024766",
+        "goodsname": "L37024766 \u77f3\u82f1\u8868",
+        "specname": "",
+        "goodscount": "1.0000",
+        "unit": "",
+        "barcode": "L37024766",
+        "price": "0.0000",
+        "moneyratio": "1.0000"
+      }
+    ]
+  }
+]
